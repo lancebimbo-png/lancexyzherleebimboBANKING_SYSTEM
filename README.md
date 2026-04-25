@@ -31,11 +31,9 @@ CUSTOMER (1) ───< ACCOUNT (1) ───< TRANSACTION
 - One **Account** can have **many Transactions**
 - Both foreign keys use `ON DELETE CASCADE`
 
----
 
 ## Project Structure
 
-```
 BankingSystemCRUD/
 ├── src/
 │   ├── Main.java                        ← Entry point
@@ -54,9 +52,8 @@ BankingSystemCRUD/
 │       ├── TransactionFrame.java        ← Window 2: Deposit / Withdraw
 │       └── TransactionHistoryFrame.java ← Window 3: Logs & Filters
 └── banking_system.sql                   ← Database setup script
-```
 
----
+
 
 ## How to Run
 
