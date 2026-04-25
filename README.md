@@ -112,7 +112,9 @@ BankingSystemCRUD/
 ---
 
 ## Screenshots
-*(Add screenshots of your running application here)*
+<img width="1919" height="1073" alt="Screenshot 2026-04-25 232816" src="https://github.com/user-attachments/assets/ee51bac3-9858-49c3-8bf3-68fab29e8b02" />
+<img width="1919" height="1074" alt="Screenshot 2026-04-25 232800" src="https://github.com/user-attachments/assets/163ff3b4-a74c-4ff8-9ebe-5b40835f30ed" />
+<img width="1919" height="1068" alt="Screenshot 2026-04-25 232824" src="https://github.com/user-attachments/assets/7c97ef3f-8578-48cb-bb89-b5cac185c4ac" />
 
 ---
 
