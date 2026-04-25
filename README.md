@@ -1,8 +1,9 @@
-#  BankingSystemCRUD
+# BankingSystemCRUD
 
 **Student Activity — Simple Banking System with CRUD Operations**  
 *Java Swing + MySQL + DAO Pattern*
 
+---
 
 ## System Description
 
@@ -13,6 +14,7 @@ A desktop banking application built with **Java Swing** that manages:
 
 The project follows the **DAO (Data Access Object)** design pattern, keeping GUI code cleanly separated from database logic.
 
+---
 
 ## ERD Explanation
 
@@ -31,9 +33,11 @@ CUSTOMER (1) ───< ACCOUNT (1) ───< TRANSACTION
 - One **Account** can have **many Transactions**
 - Both foreign keys use `ON DELETE CASCADE`
 
+---
 
 ## Project Structure
 
+```
 BankingSystemCRUD/
 ├── src/
 │   ├── Main.java                        ← Entry point
@@ -52,8 +56,9 @@ BankingSystemCRUD/
 │       ├── TransactionFrame.java        ← Window 2: Deposit / Withdraw
 │       └── TransactionHistoryFrame.java ← Window 3: Logs & Filters
 └── banking_system.sql                   ← Database setup script
+```
 
-
+---
 
 ## How to Run
 
@@ -112,6 +117,5 @@ BankingSystemCRUD/
 ---
 
 ## Author
-- **Name:** [Your Name]
-- **Section:** [Your Section]
+- **Name:** Lance Xyzherlee A. Bimbo
 - **Instructor:** Engr. Jamie Eduardo Rosal, MSCpE
