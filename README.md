@@ -1,9 +1,8 @@
-# 🏦 BankingSystemCRUD
+#  BankingSystemCRUD
 
 **Student Activity — Simple Banking System with CRUD Operations**  
 *Java Swing + MySQL + DAO Pattern*
 
----
 
 ## System Description
 
@@ -14,7 +13,6 @@ A desktop banking application built with **Java Swing** that manages:
 
 The project follows the **DAO (Data Access Object)** design pattern, keeping GUI code cleanly separated from database logic.
 
----
 
 ## ERD Explanation
 
